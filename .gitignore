@@ -6,6 +6,17 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
